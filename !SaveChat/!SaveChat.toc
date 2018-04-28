@@ -1,0 +1,10 @@
+## Interface: 20400
+## Title: SaveChat
+## Author: Pyralis
+## Version: 1.0
+## Notes: Saves text from each chat tab between sessions.
+## SavedVariablesPerCharacter: SaveChatSave
+## DefaultState: Enabled
+## LoadOnDemand: 0
+
+SaveChat.lua
